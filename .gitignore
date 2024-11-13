@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+build/
+*.log
+.idea/*
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
